@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Banner.png" width="100%" alt="Banner">
+</p>
 <h1 align="center">Hi, I'm David Backam S</h1>
 
 <p align="center">
